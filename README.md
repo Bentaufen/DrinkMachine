@@ -1,5 +1,5 @@
 # DrinkMachine
-A Voice Automated Drink Machine that will pour drinks that are controlled by Amazon Alexa.
+A Voice Automated Drink Machine that will pour drinks controlled by Amazon Alexa.
 
 STEPS I took to create the DrinkMachine.
 
