@@ -15,3 +15,5 @@ STEPS I took to create the DrinkMachine.
 
 All code included in this project is on here.
 
+DrinkMachine.py is to be run on the Raspberry Pi.
+lambda_function.py is to be run on AWS Lambda.
